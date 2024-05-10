@@ -1,4 +1,5 @@
-##Interfaz de Usuario con Swing
+#Interfaz de Usuario 
+
 Este proyecto consiste en una aplicación de interfaz de usuario simple implementada en Java utilizando la biblioteca Swing. La aplicación muestra una lista de usuarios con sus nombres y avatares, permitiendo al usuario desplazarse por la lista y realizar búsquedas mediante un campo de texto.
 [![Captura-de-pantalla-180.png](https://i.postimg.cc/28gq4NYY/Captura-de-pantalla-180.png)](https://postimg.cc/SJ7Nh5j1)
 [![Captura-de-pantalla-181.png](https://i.postimg.cc/6QfyJ7v6/Captura-de-pantalla-181.png)](https://postimg.cc/qtgk2vwW)
